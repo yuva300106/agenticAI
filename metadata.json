@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CampusPulse",
+  "description": "AI-Powered College Opportunity \u0026 Engagement Intelligence Platform connecting students, faculty, and verified external partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
